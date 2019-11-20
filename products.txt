@@ -2,6 +2,4 @@ SmartPhone
 Laptop
 PC
 TV
-Kyo
-Tank
 
