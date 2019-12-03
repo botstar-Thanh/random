@@ -4,14 +4,8 @@
         "text": "Hello World",
         "quick_replies": [
           "Red",
-          {
-            "title": "Green",
-            "payload": {
-              "goToBlock": "se0716247-1741-44c5-812d-a118fe4c128sds"
-            }
-          },
           "Blue"
         ]
       }
     ]
-  }
+}
