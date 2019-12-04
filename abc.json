@@ -1,0 +1,29 @@
+{
+  "messages": [
+    {
+      "cards": [
+        {
+          "title": "Product 1",
+          "subtitle": "Product 1 subtitle",
+          "image": "https://d1fmnevnt6737i.cloudfront.net/default-images/1.png",
+          "button": {
+            "title": "Button 1"
+          }
+        },
+        {
+          "title": "Product 2",
+          "subtitle": "Product 2 subtitle",
+          "image": "https://d1fmnevnt6737i.cloudfront.net/default-images/2.png",
+          "button": {
+            "title": "Button 2"
+          }
+        }
+      ],
+      "quick_replies": [
+        "Red",
+        "Green",
+        "Blue"
+      ]
+    }
+  ]
+}
